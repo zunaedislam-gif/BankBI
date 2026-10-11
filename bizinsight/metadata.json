@@ -1,0 +1,6 @@
+{
+  "name": "BizInsight",
+  "description": "AI-powered business analytics dashboard with sales trend forecasting, KPI metrics, and executive insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
